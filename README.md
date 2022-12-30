@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-- 🔭 I’m currently working on ** my own CV website **
+
+- 🔭 I’m currently working on **my own CV website and few other projects**
 
 - 🌱 I’m currently learning **Javascript, Python**
 
-- ⚡ I'm interested in **DevOps, coding, psychology, stoicism&pragmatism, music.**
+- 👨‍💻 Working hard towards becoming **financially free, full stack DevOps developer, psycho-analityc mentor/advisor and a life-style coach**
+
+- ⚡ I'm interested in **psychology, stoicism&pragmatism, music, bodybuilding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
