@@ -6,7 +6,7 @@
 
 - 👨‍💻 Working hard towards becoming **financially free, full stack DevOps developer, psycho-analityc mentor/advisor and a life-style coach**
 
-- ⚡ I'm interested in **psychology, stoicism&pragmatism, music, bodybuilding.**
+- ⚡ I'm interested in **psychology, stoicism, pragmatism, music, bodybuilding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
