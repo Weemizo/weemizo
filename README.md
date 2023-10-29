@@ -4,13 +4,14 @@
 
 - 🌱 I’m currently learning **React and Typescript**
 
-![Codewars](https://github.r2v.ch/codewars?user=Weemizo)
+
 
 <h2 align="left"></h2>
 
 ###
 
 <div align="center">
+  ![Codewars](https://github.r2v.ch/codewars?user=Weemizo)
 </div>
 
 ###
