@@ -9,10 +9,7 @@
 <h2 align="left"></h2>
 
 ###
-
   ![Codewars](https://github.r2v.ch/codewars?user=Weemizo)
-  <a href="https://github.r2v.ch/codewars?user=Weemizo"> Codewars </a>
-
 ###
 
 <div align="left">
