@@ -10,9 +10,8 @@
 
 ###
 
-<div align="center">
   ![Codewars](https://github.r2v.ch/codewars?user=Weemizo)
-</div>
+  <a href="https://github.r2v.ch/codewars?user=Weemizo"> Codewars </a>
 
 ###
 
