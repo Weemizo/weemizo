@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-- 🔭 I’m currently working on **getting a job**
+- 🔭 I’m currently **pisschilling**
 
-- 🌱 I’m currently learning **React and Typescript**
+- 🌱 I’m currently getting used to **programming**
 
 
 
