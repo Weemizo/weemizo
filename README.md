@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-- 🔭 I’m currently **pisschilling**
-
 - 🌱 I’m currently getting used to **programming**
-
-
-
-<h2 align="left"></h2>
-
-###
-  ![Codewars](https://github.r2v.ch/codewars?user=Weemizo)
-###
 
 <div align="left">
 
