@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 
-- 🌱 I’m currently getting used to **programming**
+- 🌱 I’m currently getting used to **dev-ops**
 
 <div align="left">
 
